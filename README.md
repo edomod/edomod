@@ -9,7 +9,7 @@
 
 I'm **Edmondo De Simone**, a Full Stack Developer and Master's student in Computer Science, specialising in **Cybersecurity**.
 
-I enjoy building modern web applications and turning ideas into clean, functional and maintainable solutions.
+I enjoy building modern web applications and transforming ideas into clean, functional and maintainable solutions.
 
 Alongside my work as a developer, I'm expanding my knowledge of cybersecurity, with a particular interest in understanding how software can be designed and developed more securely.
 
@@ -34,45 +34,49 @@ Some topics I'm currently interested in:
 * Code quality and maintainability
 * Modern web development
 
-## 🛠️ Tech Stack
+## 💻 Languages
 
 <p align="left">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    width="45"
-    height="45"
+    width="48"
+    height="48"
     alt="TypeScript"
     title="TypeScript"
   />
-  &nbsp;
+  &nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    width="45"
-    height="45"
+    width="48"
+    height="48"
     alt="JavaScript"
     title="JavaScript"
   />
-  &nbsp;
+</p>
+
+## 🛠️ Frameworks & Tools
+
+<p align="left">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
-    width="45"
-    height="45"
+    width="48"
+    height="48"
     alt="Vue.js"
     title="Vue.js"
   />
-  &nbsp;
+  &nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
-    width="45"
-    height="45"
+    width="48"
+    height="48"
     alt="Nuxt"
     title="Nuxt"
   />
-  &nbsp;
+  &nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    width="45"
-    height="45"
+    width="48"
+    height="48"
     alt="Tailwind CSS"
     title="Tailwind CSS"
   />
@@ -86,21 +90,6 @@ Some topics I'm currently interested in:
 🎮 Video games
 🏍️ Motorcycles
 ```
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=edomod&show_icons=true&hide_border=true&theme=transparent"
-    alt="Edmondo's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edomod&layout=compact&hide_border=true&theme=transparent"
-    alt="Edmondo's most used languages"
-  />
-</p>
 
 ## 🌐 Connect with Me
 
