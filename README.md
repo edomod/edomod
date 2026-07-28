@@ -3,18 +3,20 @@
 🎓 **Master's Student in Computer Science — Cybersecurity Curriculum**
 💻 **Full Stack Developer**
 🔐 Interested in cybersecurity and secure software development
-🎮 Gaming · 🏍️ Motorcycles · 💻 Coding
+📍 Salerno, Italy
 
 ## 🚀 About Me
 
 I'm **Edmondo De Simone**, a Full Stack Developer and Master's student in Computer Science, specialising in **Cybersecurity**.
 
-I enjoy building modern web applications and turning ideas into clean, functional and maintainable solutions. My academic path is helping me expand my knowledge of cybersecurity, with a particular interest in understanding how software can be designed and developed more securely.
+I enjoy building modern web applications and turning ideas into clean, functional and maintainable solutions.
+
+Alongside my work as a developer, I'm expanding my knowledge of cybersecurity, with a particular interest in understanding how software can be designed and developed more securely.
 
 I'm always looking for new challenges, technologies to explore and opportunities to improve my skills.
 
 * 🔨 Currently working as a **Full Stack Developer**
-* 🌱 Currently improving my knowledge of **cybersecurity and secure coding**
+* 🌱 Improving my knowledge of **cybersecurity and secure coding**
 * 🧠 Interested in web development, application security and software architecture
 * 💡 Strong believer in continuous learning
 * ⚡ Always trying to become a better developer than yesterday
@@ -32,21 +34,48 @@ Some topics I'm currently interested in:
 * Code quality and maintainability
 * Modern web development
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<p align="left">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    width="45"
+    height="45"
+    alt="TypeScript"
+    title="TypeScript"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="45"
+    height="45"
+    alt="JavaScript"
+    title="JavaScript"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
+    width="45"
+    height="45"
+    alt="Vue.js"
+    title="Vue.js"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
+    width="45"
+    height="45"
+    alt="Nuxt"
+    title="Nuxt"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+    width="45"
+    height="45"
+    alt="Tailwind CSS"
+    title="Tailwind CSS"
+  />
 </p>
 
 ## 🎯 Interests
@@ -63,14 +92,31 @@ Some topics I'm currently interested in:
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=edomo&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=edomod&show_icons=true&hide_border=true&theme=transparent"
     alt="Edmondo's GitHub statistics"
-  >
+  />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edomo&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edomod&layout=compact&hide_border=true&theme=transparent"
     alt="Edmondo's most used languages"
-  >
+  />
+</p>
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://edomod.tech">
+    <img
+      src="https://img.shields.io/badge/Website-edomod.tech-222222?style=flat-square&logo=googlechrome&logoColor=white"
+      alt="Website"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/edmondo-de-simone">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Edmondo_De_Simone-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </p>
 
 ---
