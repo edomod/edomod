@@ -90,6 +90,32 @@ Some topics I'm currently interested in:
 🎮 Video games
 🏍️ Motorcycles
 ```
+## 🛠️ Stack
+
+I use these technologies frequently, and I'm always learning something new.
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,tailwind&theme=dark"
+    alt="JavaScript, TypeScript, Vue.js, Nuxt and Tailwind CSS"
+  />
+</p>
+
+## 🏷️ Badges
+
+<img
+  src="https://komarev.com/ghpvc/?username=edomod&label=visitors&color=0e75b6&style=flat"
+  alt="Profile visitors"
+/>
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=edomod&theme=dark&hide_border=true"
+    alt="Edmondo's GitHub streak"
+  />
+</p>
 
 ## 🌐 Connect with Me
 
