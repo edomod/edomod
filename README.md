@@ -1,8 +1,8 @@
 # Hi there, I'm Edmondo 👋
 
-🎓 **Master's Student in Computer Science — Cybersecurity Curriculum**
-💻 **Full Stack Developer**
-🔐 Interested in cybersecurity and secure software development
+🎓 **Master's Student in Computer Science — Cybersecurity Curriculum**<br>
+💻 **Full Stack Developer**<br>
+🔐 Interested in cybersecurity and secure software development<br>
 📍 Salerno, Italy
 
 ## 🚀 About Me
