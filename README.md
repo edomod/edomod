@@ -71,22 +71,6 @@ secure software development.
   />
 </p>
 
-## GitHub in motion
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=edomod&hide_border=true&background=00000000&border_radius=8&ring=7C3AED&fire=EC4899&currStreakNum=EC4899&sideNums=A855F7&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=6B7280"
-    alt="Edmondo's all-time GitHub contributions across public and private repositories, current streak and longest streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=edomod&bg_color=00000000&hide_border=true&radius=8&custom_title=Contribution%20activity&title_color=A855F7&color=9CA3AF&line=7C3AED&point=EC4899&area=true&area_color=7C3AED"
-    alt="Graph of Edmondo's GitHub contribution activity over the last 31 days"
-  />
-</p>
-
 ## Away from the keyboard
 
 <p align="center">
