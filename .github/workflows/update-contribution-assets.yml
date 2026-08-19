@@ -1,0 +1,52 @@
+name: Update verified contribution assets
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contribution-assets
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v5
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "20"
+
+      - name: Test contribution calculations and SVG rendering
+        run: node --test .github/scripts/contribution-assets.test.mjs
+
+      - name: Generate verified contribution assets
+        run: node .github/scripts/update-contribution-assets.mjs
+        env:
+          GH_GRAPHQL_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+          PROFILE_LOGIN: edomod
+          PROFILE_TOKEN_IS_PERSONAL: ${{ secrets.PROFILE_STATS_TOKEN != '' }}
+
+      - name: Publish generated SVGs to the output branch
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          publish_dir=$(mktemp -d)
+          cp dist/profile/*.svg "$publish_dir/"
+
+          cd "$publish_dir"
+          git init --initial-branch=output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ./*.svg
+          git commit -m "chore: update profile contribution assets"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push --force origin HEAD:refs/heads/output

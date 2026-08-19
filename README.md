@@ -56,8 +56,8 @@ secure software development.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,tailwind,git&theme=dark&perline=6"
-    alt="JavaScript, TypeScript, Vue.js, Nuxt, Tailwind CSS and Git"
+    src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,vite,tailwind,git&theme=dark&perline=7"
+    alt="JavaScript, TypeScript, Vue.js, Nuxt, Vite, Tailwind CSS and Git"
   />
   <img
     width="48"
