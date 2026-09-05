@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="195" viewBox="0 0 780 195" role="img" aria-labelledby="title description">
+  <title id="title">Verified GitHub contribution statistics</title>
+  <desc id="description">All-time contributions, current contribution streak, and longest contribution streak calculated from GitHub GraphQL data.</desc>
+  <defs>
+    <linearGradient id="background-accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a371f7" stop-opacity=".12"/>
+      <stop offset=".55" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="1" stop-color="#39d0d8" stop-opacity=".1"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .metric { fill: #f0f3f6; font: 700 36px ui-monospace, SFMono-Regular, Consolas, monospace; }
+      .label { fill: #f0f3f6; font: 600 15px Inter, Segoe UI, sans-serif; }
+      .caption { fill: #8b949e; font: 600 10px Inter, Segoe UI, sans-serif; letter-spacing: 1.8px; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="778" height="193" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="2" y="2" width="776" height="191" rx="17" fill="url(#background-accent)"/>
+  <path d="M260 27V168M520 27V168" stroke="#30363d" stroke-opacity=".75"/>
+  <g filter="url(#soft-glow)">
+
+    <circle cx="130" cy="43" r="12" fill="#a371f7" opacity=".16"/>
+    <circle cx="130" cy="43" r="4" fill="#a371f7"/>
+    <text x="130" y="92" class="metric" text-anchor="middle">1,476</text>
+    <text x="130" y="124" class="label" text-anchor="middle">Total Contributions</text>
+    <text x="130" y="151" class="caption" text-anchor="middle">ALL TIME</text>
+
+    <circle cx="390" cy="43" r="12" fill="#39d0d8" opacity=".16"/>
+    <circle cx="390" cy="43" r="4" fill="#39d0d8"/>
+    <text x="390" y="92" class="metric" text-anchor="middle">1</text>
+    <text x="390" y="124" class="label" text-anchor="middle">Current Streak</text>
+    <text x="390" y="151" class="caption" text-anchor="middle">ACTIVE DAYS</text>
+
+    <circle cx="650" cy="43" r="12" fill="#a371f7" opacity=".16"/>
+    <circle cx="650" cy="43" r="4" fill="#a371f7"/>
+    <text x="650" y="92" class="metric" text-anchor="middle">8</text>
+    <text x="650" y="124" class="label" text-anchor="middle">Longest Streak</text>
+    <text x="650" y="151" class="caption" text-anchor="middle">PERSONAL BEST</text>
+  </g>
+  <text x="390" y="181" fill="#8b949e" font-family="Inter, Segoe UI, sans-serif" font-size="9" text-anchor="middle" letter-spacing="1.2">VERIFIED VIA GITHUB GRAPHQL</text>
+</svg>
